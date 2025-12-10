@@ -19,7 +19,7 @@ A hybrid recommendation system combining collaborative filtering, content-based 
 🚧 Work in Progress
 
 ## Dataset
-MovieLens 25M - https://grouplens.org/datasets/movielens/
+MovieLens 1M - https://grouplens.org/datasets/movielens/
 
 ---
 *More documentation coming soon...*
