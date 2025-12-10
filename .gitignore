@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+ENV/
+*.pkl
+*.pt
+*.pth
+
+# Data files (too large for Git)
+data/raw/*
+data/processed/*
+data/embeddings/*
+*.csv
+*.npy
+
+# Models (too large)
+models/*.pkl
+models/*.pth
+*.h5
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Logs
+*.log
